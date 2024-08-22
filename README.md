@@ -34,16 +34,15 @@ Before you begin, ensure you have the following installed:
 ## Frontend Setup (Next.js)
 
 1. **Navigate to the frontend directory:**
+2. **Install the required dependencies:**
+3. **Run the Next.js development server:**
+
 
 ```bash
 cd frontend
 
-2. **Install the required dependencies:**
-
 ```bash
 npm install
-
-3. **Run the Next.js development server:**
 
 ```bash
 npm run dev
