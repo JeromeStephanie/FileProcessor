@@ -24,6 +24,30 @@ Before you begin, ensure you have the following installed:
    ```bash
    cd backend
 
-2. Build the project using Maven:   
+2. **Build the project using Maven:**
+
+    ```bash
+    mvn clean install
+
+3. **The backend server will start on http://localhost:8080.**
+
+## Frontend Setup (Next.js)
+
+1. **Navigate to the frontend directory:**
+
+```bash
+cd frontend
+
+2. **Install the required dependencies:**
+
+```bash
+npm install
+
+3. **Run the Next.js development server:**
+
+```bash
+npm run dev
+
+
 
 
