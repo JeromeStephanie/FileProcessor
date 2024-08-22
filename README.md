@@ -14,5 +14,16 @@ Before you begin, ensure you have the following installed:
 - [Node.js (v14+)](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
-## Project Structure
+
+## Getting Started
+
+### Backend Setup (Spring Boot)
+
+1. **Navigate to the backend directory:**
+
+   ```bash
+   cd backend
+
+2. Build the project using Maven:   
+
 
