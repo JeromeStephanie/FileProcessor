@@ -3,7 +3,7 @@
 - **Backend:** Spring Boot RESTful API that handles file upload and text processing.
 - **Frontend:** Next.js application that provides a user interface for file upload and displays the processed text.
 
-## Prerequisites
+## Requirements
 
 Before you begin, ensure you have the following installed:
 
