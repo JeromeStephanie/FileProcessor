@@ -1,7 +1,5 @@
 # File Processor Web Application
 
-This project is a web application that allows users to upload a text file, processes the file to surround the most used word with `foo` and `bar`, and displays the processed text. The project is divided into two main parts:
-
 - **Backend:** Spring Boot RESTful API that handles file upload and text processing.
 - **Frontend:** Next.js application that provides a user interface for file upload and displays the processed text.
 
