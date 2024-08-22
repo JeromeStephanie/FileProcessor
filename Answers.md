@@ -12,8 +12,8 @@ I chose to structure the code with a clear separation between the frontend and b
 
 If I had more time, I would:
 
-- Implement more robust error handling on both the frontend and backend to handle different edge cases, such as network failures, large files, or unsupported file types.
-- Improve the user interface with more responsive design elements and better user feedback during file upload and processing (e.g., loading spinners).
+- Implement more error handling on both the frontend and backend to handle different edge cases, such as network failures, large files, or unsupported file types.
+- Improve the user interface with more responsive design elements and better user feedback during file upload and processing like loading spinners.
 - Implement server-side validation to ensure that only text files are processed.
 
 ## 4. What did you think of this recruitment test?
