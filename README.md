@@ -31,6 +31,9 @@ Before you begin, ensure you have the following installed:
 
 3. **The backend server will start on http://localhost:8080.**
 
+4. **API Endpoints:**
+   POST /process-file: Uploads a text file and returns the processed text.
+
 ## Frontend Setup (Next.js)
 
 1. **Navigate to the frontend directory:**
@@ -41,10 +44,8 @@ Before you begin, ensure you have the following installed:
 ```bash
 cd frontend
 
-```bash
 npm install
 
-```bash
 npm run dev
 
 
